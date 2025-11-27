@@ -1,4 +1,0 @@
-build
-dist
-output
-LinkGrabber.spec
