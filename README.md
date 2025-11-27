@@ -21,7 +21,7 @@ A powerful and user-friendly Windows desktop application for extracting download
 ### Option 1: Download Installer (Recommended)
 
 1. **Download the latest release:**
-   - [**Download LinkGrabber.exe**](https://github.com/YOUR_USERNAME/fit-girl/releases/latest/download/LinkGrabber.exe)
+   - [**Download LinkGrabber.exe**](https://github.com/mikailfaruqali/fit-girl/releases/download/1.0.0/LinkGrabber.exe)
 
 2. **Run the installer:**
    - Double-click `LinkGrabber.exe`
@@ -34,7 +34,7 @@ A powerful and user-friendly Windows desktop application for extracting download
 
 ### Option 2: Portable Version
 
-Download the portable `.exe` from the [Releases](https://github.com/YOUR_USERNAME/fit-girl/releases) page and run directly without installation.
+Download the portable `.exe` from the [Releases](https://github.com/mikailfaruqali/fit-girl/releases) page and run directly without installation.
 
 ## 🚀 How to Use
 
@@ -98,7 +98,7 @@ pip install pyinstaller requests
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/YOUR_USERNAME/fit-girl.git
+git clone https://github.com/mikailfaruqali/fit-girl.git
 cd fit-girl
 ```
 
@@ -190,7 +190,7 @@ This tool is for educational purposes only. Users are responsible for complying 
 ## 🐛 Issues & Support
 
 If you encounter any issues or have questions:
-- Open an [Issue](https://github.com/YOUR_USERNAME/fit-girl/issues)
+- Open an [Issue](https://github.com/mikailfaruqali/fit-girl/issues)
 - Check existing issues for solutions
 - Provide details: error messages, screenshots, steps to reproduce
 
@@ -207,5 +207,3 @@ If you encounter any issues or have questions:
 ---
 
 **Made with ❤️ for the gaming community**
-
-*Note: Replace `YOUR_USERNAME` in the download links with your actual GitHub username before publishing.*
