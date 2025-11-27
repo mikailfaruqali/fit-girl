@@ -1,0 +1,36 @@
+BUILD EXE COMMAND
+=================
+
+python -m PyInstaller --onefile --noconsole --icon=icon.ico --name LinkGrabber link-grabber.py
+
+
+INSTALL FIRST
+=============
+
+pip install pyinstaller requests pillow
+
+
+CREATE ICON FIRST
+=================
+
+python create_icon.py
+
+This will create icon.ico file needed for the exe
+
+
+AFTER BUILD
+===========
+
+Your EXE: dist\LinkGrabber.exe
+
+Works on any Windows 64-bit without Python!
+
+
+CREATE INSTALLER
+================
+
+1. Make sure you have icon.ico in the same folder
+2. Download Inno Setup: https://jrsoftware.org/isdl.php
+3. Open installer.iss
+4. Click Compile
+5. Get installer: output\LinkGrabber_Setup.exe
