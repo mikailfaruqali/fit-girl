@@ -1,8 +1,7 @@
 BUILD EXE COMMAND
 =================
 
-python -m PyInstaller --onefile --noconsole --icon=icon.ico --name LinkGrabber link-grabber.py
-
+python -m PyInstaller --onefile --noconsole --icon=icon.ico --add-data "icon.ico;." --name LinkGrabber link-grabber.py
 
 INSTALL FIRST
 =============
